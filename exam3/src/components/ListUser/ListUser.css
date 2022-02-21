@@ -1,0 +1,48 @@
+.ant-list-item-meta-content
+{
+    display: flex;
+    text-align: center;
+}
+.ant-list-item-meta-title
+{
+    width: 150px;
+    border-right: 1px solid chartreuse;
+    
+}
+.ant-list-item-meta-description
+{
+    width: 150px;
+    border-right: 1px solid chartreuse;
+    color: rgba(0, 0, 0,);
+}
+
+.ant-list-item
+{
+    width: 500px;
+    border-bottom: 1px solid chartreuse;
+    
+}
+.ant-list-item-action
+{
+    width: 150px;
+    margin-left: 0;
+}
+.ant-list-item-header
+{
+    display: flex;
+    border-bottom: 1px solid chartreuse;
+    background-color: chartreuse;
+    height: 40px;
+    align-items: center;
+    text-align: center;
+}
+.ant-list-item-header h4
+{
+    color: white;
+    font-size: 16px;
+}
+.ant-list-items
+{
+    border: 1px solid chartreuse;
+    width: 500px;
+}
